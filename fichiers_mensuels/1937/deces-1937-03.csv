@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+BON,EDMOND LUCIEN,1,1891-01-20,60175,CREIL,"",1937-03-03,60175,N
+BREANT,JEAN CLAUDE,1,1937-03-08,76057,BARENTIN,"",1937-03-08,99140,0
+SAVI,GERMAINE MARGUERITE,2,1935-03-09,13055,MARSEILLE,"",1937-03-19,99127,88

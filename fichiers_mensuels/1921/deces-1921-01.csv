@@ -1,0 +1,3 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+REMY DUHAMEL,ERNEST,1,1915-01-21,97113,LE GOSIER,GUADELOUPE,1921-01-01,97113,1
+VEZARD,SARAH CLAIRE,2,1905-12-12,89370,SAINT-VALERIEN,"",1921-01-01,77219,5

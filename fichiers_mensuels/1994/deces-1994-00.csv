@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+HALITIM,HOUSSAM,1,1994-12-16,99352,BARIKA,ALGERIE,1994,     ,5937
+DJERMOUNI,KHALED,1,1974-09-30,57463,METZ,"",1994,99352,3636
+MAURIZE,HENRI RAYMOND,1,1943-09-29,71270,MACON,"",1994,71270,405

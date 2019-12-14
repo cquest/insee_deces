@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+LAHON,FRANCOIS LAURENT,1,1879-08-25,64550,UZOS,"",1956-04-25,64550,N
+CLERJAUD,ALICE,2,1886-03-08,17300,ROCHELLE(LA),"",1956-04-13,17300,273
+JERIDI,ABDELHAMID,1,1956-04-03,99351,"",TUNISIE,1956-04-03,06088,686/01

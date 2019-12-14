@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+BIZE,JEAN MARCEL,1,1891-07-03,33063,BORDEAUX,"",1951-02-23,33009,42
+MAVOUNZA,SUZANNE CECILIA,2,1947-08-11,97228,SAINTE-MARIE EN MARTINIQUE,MARTINIQUE,1951-02-22,97228,13
+SIBILE,MARIE,2,1912-01-14,06088,NICE,"",1951-02-20,99138,64

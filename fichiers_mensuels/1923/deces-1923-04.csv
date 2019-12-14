@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+AIPAR,JEAN,1,1923-04-10,97415,SAINT PAUL,REUNION,1923-04-19,97415,N
+ARQUIMBAU,FRANCOIS,2,1923-04-22,99134,"",ESPAGNE,1923-04-22,99134,N
+ERIALC,EMMANUEL,1,1923-04-19,97212,GROS MORNE,MARTINIQUE,1923-04-19,97302,60/94

@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+MANDRIN,MARIE CECILE,2,1937-08-07,97421,SALAZIE,REUNION,1937-10-09,97421,35
+JEROME,HUBERT PAULETTE,2,1935-11-03,97210,LE FRANCOIS,MARTINIQUE,1937-10-01,97210,431
+CLAUDE,"",1,1937-08-30,17170,LA GARDE,"",1937-10-06,17243,N

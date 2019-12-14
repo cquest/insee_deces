@@ -1,0 +1,3 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+DELAPREE,MARIE,2,1900-10-01,85029,BOUIN,"",1900-10-01,85029,N
+SNP,JOACHIM RAPHAEL JEAN,1,1900-10-04,47001,AGEN,"",1900-10-23,47001,N

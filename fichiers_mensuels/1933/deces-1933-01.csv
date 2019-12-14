@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+CHARLERY,LAZARE,1,1904-12-23,97210,LE FRANCOIS,MARTINIQUE,1933-01-10,97210,16
+GALOIS,LUCIENNE,2,1932-10-01,40192,MONT-DE-MARSAN,"",1933-01-19,40192,N
+VERIE,PIERRE CLAUDE,1,1954-06-17,99351,TUNIS,"",1933-01-25,99213,33/AFR

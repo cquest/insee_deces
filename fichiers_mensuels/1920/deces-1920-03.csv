@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+SADOUN,AMAR,1,1892-01-01,99352,"OUZERA, MEDEA",ALGERIE,1920-03-05,     ,49
+GUTTIN,LOUIS FREDERIC,1,1920-03-22,69382,LYON 02,"",1920-03-22,69123,0
+FATIMA OILI,"",1,1882,98508,DZAOUDZI,"",1920-03-23,97608,1-1920PMZ

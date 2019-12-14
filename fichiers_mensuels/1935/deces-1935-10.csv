@@ -1,0 +1,3 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+LAMOTHE,ANDRE,1,1935-10-04,40055,BRETAGNE-DE-MARSAN,"",1935-10-10,40055,12
+VIGNEAU,FERNANDE,2,1935-09-28,16394,VAUX-LAVALETTE,"",1935-10-04,16394,4

@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+GIMENES,MICHEL,1,1914-04-18,34165,MONTBAZIN,"",1945-10-11,30211,28
+MAGLOIRE,GEORGES FRANCOIS,1,1944-05-02,97217,MARIN(LE),MARTINIQUE,1945-10-26,97217,294
+WECCHEIDER,VALERIE MELANIE,2,1910-01-01,67420,RUSS,"",1945-10-28,67420,8

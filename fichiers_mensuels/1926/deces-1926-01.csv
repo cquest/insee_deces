@@ -1,0 +1,3 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+ORNOS,JOSE,1,1925-10-01,64140,BOUCAU,"",1926-01-01,99134,N
+SANCHEZ,MARIA,2,1926-01-17,78419,MONTFERMEIL,"",1926-01-17,93047,43

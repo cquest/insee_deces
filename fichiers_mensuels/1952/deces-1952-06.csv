@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+GARCIA,PATRICIO,1,1925-05-14,58303,VARENNES-VAUZELLES,"",1952-06-26,58194,299
+LALOUX,LOUIS HENRI ELIE,1,1909-12-17,62361,FREVENT,"",1952-06-07,13202,1
+PERAUDEAU,CHARLOTTE,2,1890-03-31,85092,FONTENAY-LE-COMTE,"",1952-06-23,17300,368

@@ -1,0 +1,4 @@
+nom,prenom,sexe,date_naissance,code_lieu_naissance,lieu_naissance,pays_naissance,date_deces,code_lieu_deces,numero_acte_deces
+RIGAT,VALERY,1,1880-12-25,75113,PARIS 13,"",1953-12-04,07019,N
+ROUX,JOSEPH GUY,1,1932-04-14,33438,SAINT-MAIXANT,"",1953-12-09,33065,0
+PINAUD,AUGUSTE GEORGES,1,1898-11-04,06088,NICE,"",1953-12-07,99138,289
